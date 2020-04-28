@@ -1,0 +1,13 @@
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\bin\Debug\netcoreapp3.1\Часть2зад3.exe
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\bin\Debug\netcoreapp3.1\Часть2зад3.deps.json
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\bin\Debug\netcoreapp3.1\Часть2зад3.runtimeconfig.json
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\bin\Debug\netcoreapp3.1\Часть2зад3.runtimeconfig.dev.json
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\bin\Debug\netcoreapp3.1\Часть2зад3.dll
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\bin\Debug\netcoreapp3.1\Часть2зад3.pdb
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\obj\Debug\netcoreapp3.1\Часть2зад3.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\obj\Debug\netcoreapp3.1\Часть2зад3.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\obj\Debug\netcoreapp3.1\Часть2зад3.AssemblyInfoInputs.cache
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\obj\Debug\netcoreapp3.1\Часть2зад3.AssemblyInfo.cs
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\obj\Debug\netcoreapp3.1\Часть2зад3.dll
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\obj\Debug\netcoreapp3.1\Часть2зад3.pdb
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад3\obj\Debug\netcoreapp3.1\Часть2зад3.genruntimeconfig.cache

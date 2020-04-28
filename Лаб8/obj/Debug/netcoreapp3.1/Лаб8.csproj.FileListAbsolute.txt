@@ -1,0 +1,24 @@
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.exe
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.deps.json
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.runtimeconfig.json
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.runtimeconfig.dev.json
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.dll
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.pdb
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.AssemblyInfoInputs.cache
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.AssemblyInfo.cs
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.dll
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.pdb
+C:\Users\Игорь\Desktop\Лаб8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.genruntimeconfig.cache
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.exe
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.deps.json
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.runtimeconfig.json
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.runtimeconfig.dev.json
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.dll
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Лаб8\bin\Debug\netcoreapp3.1\Лаб8.pdb
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.csprojAssemblyReference.cache
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.AssemblyInfoInputs.cache
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.AssemblyInfo.cs
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.dll
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Лаб8\obj\Debug\netcoreapp3.1\Лаб8.pdb

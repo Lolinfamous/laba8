@@ -1,0 +1,10 @@
+C:\Users\Игорь\Desktop\Лаб8\Зад3Часть2\bin\Debug\Зад3Часть2.exe.config
+C:\Users\Игорь\Desktop\Лаб8\Зад3Часть2\bin\Debug\Зад3Часть2.exe
+C:\Users\Игорь\Desktop\Лаб8\Зад3Часть2\bin\Debug\Зад3Часть2.pdb
+C:\Users\Игорь\Desktop\Лаб8\Зад3Часть2\obj\Debug\Зад3Часть2.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\Лаб8\Зад3Часть2\obj\Debug\Зад3Часть2.Form1.resources
+C:\Users\Игорь\Desktop\Лаб8\Зад3Часть2\obj\Debug\Зад3Часть2.Properties.Resources.resources
+C:\Users\Игорь\Desktop\Лаб8\Зад3Часть2\obj\Debug\Зад3Часть2.csproj.GenerateResource.cache
+C:\Users\Игорь\Desktop\Лаб8\Зад3Часть2\obj\Debug\Зад3Часть2.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\Лаб8\Зад3Часть2\obj\Debug\Зад3Часть2.exe
+C:\Users\Игорь\Desktop\Лаб8\Зад3Часть2\obj\Debug\Зад3Часть2.pdb

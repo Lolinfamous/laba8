@@ -1,0 +1,24 @@
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.exe
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.deps.json
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.runtimeconfig.json
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.runtimeconfig.dev.json
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.dll
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.pdb
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.AssemblyInfoInputs.cache
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.AssemblyInfo.cs
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.dll
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.pdb
+C:\Users\Игорь\Desktop\Лаб8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.genruntimeconfig.cache
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.exe
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.deps.json
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.runtimeconfig.json
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.runtimeconfig.dev.json
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.dll
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Часть2зад1\bin\Debug\netcoreapp3.1\Часть2зад1.pdb
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.csprojAssemblyReference.cache
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.AssemblyInfoInputs.cache
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.AssemblyInfo.cs
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.dll
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Часть2зад1\obj\Debug\netcoreapp3.1\Часть2зад1.pdb

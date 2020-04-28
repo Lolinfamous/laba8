@@ -1,0 +1,19 @@
+C:\Users\Игорь\Desktop\Лаб8\Таймер\bin\Debug\Таймер.exe.config
+C:\Users\Игорь\Desktop\Лаб8\Таймер\bin\Debug\Таймер.exe
+C:\Users\Игорь\Desktop\Лаб8\Таймер\bin\Debug\Таймер.pdb
+C:\Users\Игорь\Desktop\Лаб8\Таймер\obj\Debug\Таймер.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\Лаб8\Таймер\obj\Debug\Таймер.Form1.resources
+C:\Users\Игорь\Desktop\Лаб8\Таймер\obj\Debug\Таймер.Properties.Resources.resources
+C:\Users\Игорь\Desktop\Лаб8\Таймер\obj\Debug\Таймер.csproj.GenerateResource.cache
+C:\Users\Игорь\Desktop\Лаб8\Таймер\obj\Debug\Таймер.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\Лаб8\Таймер\obj\Debug\Таймер.exe
+C:\Users\Игорь\Desktop\Лаб8\Таймер\obj\Debug\Таймер.pdb
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Таймер\bin\Debug\Таймер.exe.config
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Таймер\bin\Debug\Таймер.exe
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Таймер\bin\Debug\Таймер.pdb
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Таймер\obj\Debug\Таймер.csprojAssemblyReference.cache
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Таймер\obj\Debug\Таймер.Form1.resources
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Таймер\obj\Debug\Таймер.Properties.Resources.resources
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Таймер\obj\Debug\Таймер.csproj.GenerateResource.cache
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Таймер\obj\Debug\Таймер.exe
+E:\3 Курс\2 семестр\Магомедов\Лабы\Lab 8\Таймер\obj\Debug\Таймер.pdb
